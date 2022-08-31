@@ -1,3 +1,4 @@
+<?php ?>
 <style>
     .logo-header {
 	background: linear-gradient(rgba(62, 63, 64, 0.6), rgba(62, 63, 64, 0.6)), url("../includes/library.jpg") !important;
