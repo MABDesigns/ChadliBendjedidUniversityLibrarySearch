@@ -24,6 +24,9 @@ and that's it you can now start using the web app.
 
 At the Search bar type in the name of the book/article/publication that you want to check if it's available at the library.
 
+## ScreenShot 
+
+![Settings Window](https://i.postimg.cc/5jcXJ7Sc/Screenshot-2022-08-31-at-02-35-13-Search-In-Library.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
