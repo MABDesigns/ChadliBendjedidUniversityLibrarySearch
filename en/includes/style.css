@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
 
 @import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/minty/bootstrap.min.css");
 
 body{
     font-family: 'Cairo', sans-serif !important;
